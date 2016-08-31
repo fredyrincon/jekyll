@@ -57,4 +57,4 @@ and we will address it as soon as possible.
 
 ## License
 
-See the [LICENSE](https://github.com/jekyll/jekyll/blob/master/LICENSE) file.
+See the [LICENSE](https://github.com/jekyll/jekyll/blob/master/LICENSE) file..
